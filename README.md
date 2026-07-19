@@ -59,7 +59,8 @@ const apiKey = "YOUR_API_KEY";
 ## 📸 Screenshot
 
 Add a screenshot of your application here.
-<img width="1920" height="1080" alt="Screenshot 2026-07-19 150444" src="https://github.com/user-attachments/assets/db4bca0f-4eb0-419b-b9f0-8bd9561e4fd8" />
+<img width="1920" height="891" alt="Screenshot 2026-07-19 150444" src="https://github.com/user-attachments/assets/a7de9ef5-3c95-4acc-9448-9994eb439ea1" />
+
 
 <img width="778" height="712" alt="Screenshot 2026-07-19 150510" src="https://github.com/user-attachments/assets/d12ee827-ead4-4294-98ad-85c07fe41976" />
 
